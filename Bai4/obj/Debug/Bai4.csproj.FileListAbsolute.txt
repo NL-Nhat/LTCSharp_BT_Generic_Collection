@@ -1,0 +1,7 @@
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\bin\Debug\Bai4.exe.config
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\bin\Debug\Bai4.exe
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\bin\Debug\Bai4.pdb
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\obj\Debug\Bai4.exe
+D:\University\LTCSharp\BT_Generic_Collection\Bai4\Bai4\obj\Debug\Bai4.pdb
