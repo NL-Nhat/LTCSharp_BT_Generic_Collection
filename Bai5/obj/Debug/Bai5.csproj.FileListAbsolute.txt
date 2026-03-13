@@ -5,3 +5,4 @@ D:\University\LTCSharp\BT_Generic_Collection\Bai5\Bai5\obj\Debug\Bai5.csproj.Ass
 D:\University\LTCSharp\BT_Generic_Collection\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
 D:\University\LTCSharp\BT_Generic_Collection\Bai5\Bai5\obj\Debug\Bai5.exe
 D:\University\LTCSharp\BT_Generic_Collection\Bai5\Bai5\obj\Debug\Bai5.pdb
+D:\University\LTCSharp\BT_Generic_Collection\Bai5\Bai5\obj\Debug\Bai5.exe.config

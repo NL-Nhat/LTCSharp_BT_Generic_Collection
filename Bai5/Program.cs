@@ -28,6 +28,9 @@ namespace Bai5
 
         static void Main(string[] args)
         {
+            Console.WriteLine("========================================");
+            Console.WriteLine("NGUYEN LONG NHAT - 23115053122126");
+            Console.WriteLine("========================================");
 
             List<String> names = new List<string>();
             int n;
