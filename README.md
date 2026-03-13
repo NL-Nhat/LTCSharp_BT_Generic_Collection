@@ -1,5 +1,7 @@
 **BT Generic collection**
 
+XEM CODE Ở PHẦN Program.cs
+
 PHẦN 1 – BÀI TẬP CƠ BẢN (1–7)
 
 Bài 1. Tạo danh sách số nguyên
