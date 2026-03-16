@@ -1,0 +1,7 @@
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\bin\Debug\Bai8.exe.config
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\bin\Debug\Bai8.exe
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\bin\Debug\Bai8.pdb
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\obj\Debug\Bai8.exe
+D:\University\LTCSharp\BT_Generic_Collection\Bai8\Bai8\obj\Debug\Bai8.pdb
