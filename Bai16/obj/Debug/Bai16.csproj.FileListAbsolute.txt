@@ -1,0 +1,8 @@
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\bin\Debug\Bai16.exe.config
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\bin\Debug\Bai16.exe
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\bin\Debug\Bai16.pdb
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\obj\Debug\Bai16.csproj.AssemblyReference.cache
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\obj\Debug\Bai16.csproj.CoreCompileInputs.cache
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\obj\Debug\Bai16.exe
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\obj\Debug\Bai16.pdb
+D:\University\LTCSharp\BT_Generic_Collection\Bai16\Bai16\obj\Debug\Bai16.exe.config
